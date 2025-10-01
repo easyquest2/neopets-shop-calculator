@@ -1,6 +1,6 @@
-# EasyQuest Shop Size Calculator
+# EasyQuest Shop Calculator
 
-This repository is used to host the EasyQuest Shop Size Calculator.
+This repository is used to host the EasyQuest Shop Calculator.
 
 It is served through the custom domain:
 
